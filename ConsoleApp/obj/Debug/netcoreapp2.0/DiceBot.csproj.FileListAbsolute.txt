@@ -1,0 +1,11 @@
+C:\Users\Arno989\Desktop\New folder (2)\DiceBot\ConsoleApp\bin\Debug\netcoreapp2.0\DiceBot.deps.json
+C:\Users\Arno989\Desktop\New folder (2)\DiceBot\ConsoleApp\bin\Debug\netcoreapp2.0\DiceBot.runtimeconfig.json
+C:\Users\Arno989\Desktop\New folder (2)\DiceBot\ConsoleApp\bin\Debug\netcoreapp2.0\DiceBot.runtimeconfig.dev.json
+C:\Users\Arno989\Desktop\New folder (2)\DiceBot\ConsoleApp\bin\Debug\netcoreapp2.0\DiceBot.dll
+C:\Users\Arno989\Desktop\New folder (2)\DiceBot\ConsoleApp\obj\Debug\netcoreapp2.0\DiceBot.csprojAssemblyReference.cache
+C:\Users\Arno989\Desktop\New folder (2)\DiceBot\ConsoleApp\obj\Debug\netcoreapp2.0\DiceBot.csproj.CoreCompileInputs.cache
+C:\Users\Arno989\Desktop\New folder (2)\DiceBot\ConsoleApp\obj\Debug\netcoreapp2.0\DiceBot.AssemblyInfoInputs.cache
+C:\Users\Arno989\Desktop\New folder (2)\DiceBot\ConsoleApp\obj\Debug\netcoreapp2.0\DiceBot.AssemblyInfo.cs
+C:\Users\Arno989\Desktop\New folder (2)\DiceBot\ConsoleApp\bin\Debug\netcoreapp2.0\DiceBot.pdb
+C:\Users\Arno989\Desktop\New folder (2)\DiceBot\ConsoleApp\obj\Debug\netcoreapp2.0\DiceBot.dll
+C:\Users\Arno989\Desktop\New folder (2)\DiceBot\ConsoleApp\obj\Debug\netcoreapp2.0\DiceBot.pdb
